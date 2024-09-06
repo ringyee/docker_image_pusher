@@ -2,6 +2,6 @@
 #opengrok/docker
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#nginx
+nginx:1.27.1
 #jenkins/jenkins:2.452.2-lts-jdk11
-gitlab/gitlab-ee:17.2.4-ee.0
+#gitlab/gitlab-ee:17.2.4-ee.0
