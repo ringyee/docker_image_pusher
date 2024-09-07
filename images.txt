@@ -5,4 +5,5 @@
 #nginx:1.27.1
 #jenkins/jenkins:2.452.2-lts-jdk11
 #gitlab/gitlab-ee:17.2.4-ee.0
-python:3.12.5-bookworm
+#python:3.12.5-bookworm
+k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
