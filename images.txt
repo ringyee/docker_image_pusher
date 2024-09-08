@@ -6,10 +6,12 @@
 #jenkins/jenkins:2.452.2-lts-jdk11
 #jenkins/jenkins:2.462.2-lts-jdk11
 #gitlab/gitlab-ee:17.2.4-ee.0
-gitlab/gitlab-ee:16.11.8-ee.0
-gitlab/gitlab-ee:15.11.13-ee.0
+#gitlab/gitlab-ee:16.11.8-ee.0
+#gitlab/gitlab-ee:15.11.13-ee.0
+gitlab/gitlab-ee:14.10.5-ee.0
 #gitlab/gitlab-ce:17.2.4-ce.0
-gitlab/gitlab-ce:16.11.8-ce.0
-gitlab/gitlab-ce:15.11.13-ce.0
+#gitlab/gitlab-ce:16.11.8-ce.0
+#gitlab/gitlab-ce:15.11.13-ce.0
+gitlab/gitlab-ce:14.10.5-ce.0
 #python:3.12.5-bookworm
 #k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
