@@ -13,6 +13,6 @@ jenkins/jenkins:2.476-jdk17
 #gitlab/gitlab-ce:17.2.4-ce.0
 #gitlab/gitlab-ce:16.11.8-ce.0
 #gitlab/gitlab-ce:15.11.13-ce.0
-gitlab/gitlab-ce:14.10.5-ce.0
+#gitlab/gitlab-ce:14.10.5-ce.0
 #python:3.12.5-bookworm
 #k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
