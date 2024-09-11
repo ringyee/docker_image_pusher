@@ -5,10 +5,11 @@
 #nginx:1.27.1
 #jenkins/jenkins:2.452.2-lts-jdk11
 #jenkins/jenkins:2.462.2-lts-jdk11
+jenkins/jenkins:2.476-jdk17
 #gitlab/gitlab-ee:17.2.4-ee.0
 #gitlab/gitlab-ee:16.11.8-ee.0
 #gitlab/gitlab-ee:15.11.13-ee.0
-gitlab/gitlab-ee:14.10.5-ee.0
+#gitlab/gitlab-ee:14.10.5-ee.0
 #gitlab/gitlab-ce:17.2.4-ce.0
 #gitlab/gitlab-ce:16.11.8-ce.0
 #gitlab/gitlab-ce:15.11.13-ce.0
