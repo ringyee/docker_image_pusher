@@ -76,12 +76,12 @@
 #debian:bullseye
 #debian:bullseye-slim
 
-haproxy:3.0.6-bookworm⁠
-haproxy:3.0.6-alpine3.20⁠
+#haproxy:3.0.6-bookworm⁠
+#haproxy:3.0.6-alpine3.20⁠
 # haproxy:lts-bookworm same as: haproxy:3.0.6-bookworm⁠
 # haproxy:lts-alpine3.20⁠ same as: haproxy:3.0.6-alpine3.20⁠
-haproxy:2.9.12-bookworm
-haproxy:2.9.12-alpine3.20⁠
+#haproxy:2.9.12-bookworm
+#haproxy:2.9.12-alpine3.20⁠
 
 #hashicorp/consul:1.20.1
 #hashicorp/consul:1.19.2
