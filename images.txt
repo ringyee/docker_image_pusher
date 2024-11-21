@@ -83,6 +83,10 @@
 #haproxy:2.9.12-bookworm
 #haproxy:2.9.12-alpine3.20⁠
 
+clickhouse:24.10.2.80-focal⁠
+clickhouse:24.8.7.41-focal⁠
+# clickhouse:24.8.7.41-focal⁠ same as lts, lts-focal
+
 #hashicorp/consul:1.20.1
 #hashicorp/consul:1.19.2
 
@@ -96,7 +100,5 @@ zookeeper:3.9.3-jre-17
 nats:2.10.22-alpine3.20
 nats:2.10.22-scratch
 
-clickhouse:24.10.2.80-focal⁠
-clickhouse:24.8.7.41-focal⁠
-# clickhouse:24.8.7.41-focal⁠ same as lts, lts-focal
+
 
