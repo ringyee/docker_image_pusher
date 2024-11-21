@@ -23,10 +23,12 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3@sha256:a320a50cc91bd15fd2d6fa6de58bd98c1bd64b9a6f926ce23a600d87043455a3
 #phpmyadmin:5.2.0-apache
 
-alpine:3.18
-alpine:3.19
-alpine:3.20
-oraclelinux:7-slim
-oraclelinux:8-slim
-oraclelinux:9-slim
-
+#alpine:3.18
+#alpine:3.19
+#alpine:3.20
+#oraclelinux:7-slim
+#oraclelinux:8-slim
+#oraclelinux:9-slim
+ubuntu:18.04
+ubuntu:20.04
+ubuntu:24.04
