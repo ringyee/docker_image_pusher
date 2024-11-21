@@ -3,21 +3,13 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nats:2.10.22-alpine3.20
-nats:2.10.22-scratch
-
-haproxy:3.0.6-bookworm⁠
-haproxy:3.0.6-alpine3.20⁠
 haproxy:2.9.12-bookworm
-haproxy:2.9.12-alpine3.20⁠
-
+haproxy:2.9.12-alpine3.20
+haproxy:3.0.6-alpine3.20
+haproxy:3.0.6-bookworm
 clickhouse:24.10.2.80-focal⁠
 clickhouse:24.8.7.41-focal⁠
-
 influxdb:1.11.8-alpine⁠
 influxdb:2.7.10-alpine
-
 zookeeper:3.8.4-jre-17
 zookeeper:3.9.3-jre-17
-
-
