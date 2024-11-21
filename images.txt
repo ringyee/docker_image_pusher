@@ -3,8 +3,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-clickhouse:24.10.2.80-focal
-clickhouse:24.8.7.41-focal⁠
+clickhouse:24.8.7.41-focal
 influxdb:1.11.8-alpine⁠
 influxdb:2.7.10-alpine
 zookeeper:3.8.4-jre-17
