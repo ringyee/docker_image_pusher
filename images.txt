@@ -36,15 +36,55 @@
 #ubuntu:20.04
 #ubuntu:24.04
 
-memcached:1.6.32-alpine3.20
-memcached:1.6.32-bookworm
+#memcached:1.6.32-alpine3.20
+#memcached:1.6.32-bookworm
 
-redis:7.2.6-alpine3.20
-redis:7.2.6-bookworm
-redis:7.4.1-alpine3.20
-redis:7.4.1-bookworm
+#redis:7.2.6-alpine3.20
+#redis:7.2.6-bookworm
+#redis:7.4.1-alpine3.20
+#redis:7.4.1-bookworm
 
-busybox:1.37.0-glibc
-busybox:1.37.0-uclibc
-busybox:1.37.0-musl
+#busybox:1.37.0-glibc
+#busybox:1.37.0-uclibc
+#busybox:1.37.0-musl
+
+postgres:17.1-bookworm
+postgres:17.1-alpine3.20
+
+python:3.13.0-bookworm
+python:3.13.0-slim-bookworm
+python:3.12.7-bookworm
+python:3.12.7-slim-bookworm
+
+node:23.2.0-bookworm
+node:23.2.0-bookworm-slim
+node:23.2.0-alpine3.20
+
+mongo:8.0.3-noble
+mysql:8.0.40-bookworm
+mysql:8.0.40-oraclelinux9
+mysql:8.4.3-oraclelinux9
+# mysql:lts-oraclelinux9 same as mysql:8.4.3-oraclelinux9
+
+rabbitmq:4.0.3-management
+
+registry:2.8.3
+registry:2.7.1
+
+debian:bookworm
+debian:bookworm-slim
+debian:bullseye
+debian:bullseye-slim
+
+haproxy:3.0.6-bookworm⁠
+haproxy:3.0.6-alpine3.20⁠
+# haproxy:lts-bookworm same as: haproxy:3.0.6-bookworm⁠
+# haproxy:lts-alpine3.20⁠ same as: haproxy:3.0.6-alpine3.20⁠
+haproxy:2.9.12-bookworm
+haproxy:2.9.12-alpine3.20⁠
+
+
+
+
+
 
