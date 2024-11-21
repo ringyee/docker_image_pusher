@@ -4,9 +4,9 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #nginx:1.27.1
-nginx:1.27.2-alpine3.20
-nginx:1.27.2-bookworm
-nginx:1.27.2-alpine3.20-slim
+#nginx:1.27.2-alpine3.20
+#nginx:1.27.2-bookworm
+#nginx:1.27.2-alpine3.20-slim
 #jenkins/jenkins:2.452.2-lts-jdk11
 #jenkins/jenkins:2.462.2-lts-jdk11
 #jenkins/jenkins:2.476-jdk17
@@ -35,3 +35,16 @@ nginx:1.27.2-alpine3.20-slim
 #ubuntu:18.04
 #ubuntu:20.04
 #ubuntu:24.04
+
+memcached:1.6.32-alpine3.20
+memcached:1.6.32-bookworm
+
+redis:7.2.6-alpine3.20
+redis:7.2.6-bookworm
+redis:7.4.1-alpine3.20
+redis:7.4.1-bookworm
+
+busybox:1.37.0-glibc
+busybox:1.37.0-uclibc
+busybox:1.37.0-musl
+
