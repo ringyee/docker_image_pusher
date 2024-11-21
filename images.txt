@@ -74,14 +74,14 @@
 #debian:bookworm
 #debian:bookworm-slim
 #debian:bullseye
-#debian:bullseye-slim
+debian:bullseye-slim
 
-#haproxy:3.0.6-bookworm⁠
-#haproxy:3.0.6-alpine3.20⁠
+haproxy:3.0.6-bookworm⁠
+haproxy:3.0.6-alpine3.20⁠
 # haproxy:lts-bookworm same as: haproxy:3.0.6-bookworm⁠
 # haproxy:lts-alpine3.20⁠ same as: haproxy:3.0.6-alpine3.20⁠
-#haproxy:2.9.12-bookworm
-#haproxy:2.9.12-alpine3.20⁠
+haproxy:2.9.12-bookworm
+haproxy:2.9.12-alpine3.20⁠
 
 clickhouse:24.10.2.80-focal⁠
 clickhouse:24.8.7.41-focal⁠
@@ -99,6 +99,3 @@ zookeeper:3.9.3-jre-17
 
 nats:2.10.22-alpine3.20
 nats:2.10.22-scratch
-
-
-
