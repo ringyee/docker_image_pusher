@@ -3,6 +3,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+bitnami/kafka:3.1.0-debian-10-r106
+
 #influxdb:1.11.8-alpine
 #influxdb:2.7.10-alpine
 #zookeeper:3.8.4-jre-17
@@ -25,8 +27,8 @@
 #rabbitmq:4.0.5-management-alpine
 #rabbitmq:4.0.5-management
 
---platform linux/amd64,linux/arm64/v8 nginx:1.27.3-bookworm
---platform linux/amd64,linux/arm64/v8 nginx:1.27.3-alpine3.20
+#--platform linux/amd64,linux/arm64/v8 nginx:1.27.3-bookworm
+#--platform linux/amd64,linux/arm64/v8 nginx:1.27.3-alpine3.20
 
 #memcached:1.6.34-alpine3.21
 #memcached:1.6.34-bookworm
