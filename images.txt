@@ -6,7 +6,8 @@
 #postgres:17.5-bookworm
 #postgres:17.5-alpine3.22
 
-phpmyadmin:5.2.2-apache
+#phpmyadmin:5.2.2-apache
+adminer:5.3.0-standalone
 
 #jenkins/jenkins:2.504.2-lts-jdk17
 
