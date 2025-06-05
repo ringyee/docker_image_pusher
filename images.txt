@@ -3,7 +3,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-bitnami/kafka:3.1.0-debian-10-r106
+jenkins/jenkins:2.504.2-lts-jdk17
+
+#bitnami/kafka:3.1.0-debian-10-r106
 
 #influxdb:1.11.8-alpine
 #influxdb:2.7.10-alpine
