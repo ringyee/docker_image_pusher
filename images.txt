@@ -3,7 +3,45 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-rustdesk/rustdesk-server:1.1.14
+# 7.0LTS
+zabbix/zabbix-agent:7.0.15-ubuntu
+zabbix/zabbix-agent2:7.0.15-ubuntu
+zabbix/zabbix-web-nginx-mysql:7.0.15-ubuntu
+zabbix/zabbix-web-service:7.0.15-ubuntu
+zabbix/zabbix-java-gateway:7.0.15-ubuntu
+zabbix/zabbix-proxy-mysql:7.0.15-ubuntu
+zabbix/zabbix-server-mysql:7.0.15-ubuntu
+zabbix/zabbix-snmptraps:7.0.15-ubuntu
+
+zabbix/zabbix-agent:7.0.15-alpine
+zabbix/zabbix-agent2:7.0.15-alpine
+zabbix/zabbix-web-nginx-mysql:7.0.15-alpine
+zabbix/zabbix-web-service:7.0.15-alpine
+zabbix/zabbix-java-gateway:7.0.15-alpine
+zabbix/zabbix-proxy-mysql:7.0.15-alpine
+zabbix/zabbix-server-mysql:7.0.15-alpine
+zabbix/zabbix-snmptraps:7.0.15-alpine
+
+# 7.2.9
+zabbix/zabbix-agent:7.2.9-ubuntu
+zabbix/zabbix-agent2:7.2.9-ubuntu
+zabbix/zabbix-web-nginx-mysql:7.2.9-ubuntu
+zabbix/zabbix-web-service:7.2.9-ubuntu
+zabbix/zabbix-java-gateway:7.2.9-ubuntu
+zabbix/zabbix-proxy-mysql:7.2.9-ubuntu
+zabbix/zabbix-server-mysql:7.2.9-ubuntu
+zabbix/zabbix-snmptraps:7.2.9-ubuntu
+
+zabbix/zabbix-agent:7.2.9-alpine
+zabbix/zabbix-agent2:7.2.9-alpine
+zabbix/zabbix-web-nginx-mysql:7.2.9-alpine
+zabbix/zabbix-web-service:7.2.9-alpine
+zabbix/zabbix-java-gateway:7.2.9-alpine
+zabbix/zabbix-proxy-mysql:7.2.9-alpine
+zabbix/zabbix-server-mysql:7.2.9-alpine
+zabbix/zabbix-snmptraps:7.2.9-alpine
+
+#rustdesk/rustdesk-server:1.1.14
 
 #postgres:17.5-bookworm
 #postgres:17.5-alpine3.22
