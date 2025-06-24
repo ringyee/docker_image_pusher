@@ -3,10 +3,11 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+sonarqube:9.9.9-enterprise
 
-bitnami/openldap:2.6.10
-osixia/openldap:1.5.0
-osixia/openldap-backup:1.5.0
+#bitnami/openldap:2.6.10
+#osixia/openldap:1.5.0
+#osixia/openldap-backup:1.5.0
 
 #grafana/grafana:12.0.2-ubuntu
 #grafana/grafana:11.6.3-ubuntu
