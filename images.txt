@@ -3,7 +3,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-sonarqube:9.9.9-enterprise
+ltbproject/self-service-password:1.7.3
+sonarqube:9.9.9-community
+#sonarqube:9.9.9-enterprise
 
 #bitnami/openldap:2.6.10
 #osixia/openldap:1.5.0
