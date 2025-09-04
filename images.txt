@@ -7,7 +7,7 @@
 
 #gitlab/gitlab-ee:17.11.6-ee.0
 
-sonatype/nexus3:3.83.1-java17-ubi
+#sonatype/nexus3:3.83.1-java17-ubi
 
 #ltbproject/self-service-password:1.7.3
 #sonarqube:9.9.8-community
@@ -82,6 +82,12 @@ sonatype/nexus3:3.83.1-java17-ubi
 #mysql:9.0.1-oraclelinux9
 #mysql:9.1.0-oraclelinux9
 #mysql:lts-oraclelinux9
+
+mysql:8.0.43-oraclelinux9
+# map to: lts-oraclelinux9
+mysql:8.4.6-oraclelinux9
+mysql:9.4.0-oraclelinux9
+
 
 #redis:6.2.16-bookworm
 #redis:7.4.1-bookworm
