@@ -3,9 +3,29 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+nacos/nacos-server:v3.0.3
+nacos/nacos-server:v2.5.1
+nacos/nacos-server:v2.4.3
+
+minio/minio:RELEASE.2025-07-23T15-54-02Z
+
+# map to lts 
+mariadb:11.8.3-noble
+mariadb:11.4.8-noble
+
 #phpldapadmin/phpldapadmin:2.1.4
 
 #gitlab/gitlab-ee:17.11.6-ee.0
+gitlab/gitlab-ee:17.11.7-ee.0
+
+apache/rocketmq:5.3.2
+rabbitmq:4.1.4-management
+
+mongo:7.0.23-jammy
+mongo:8.0.13-noble
+
+clickhouse/clickhouse-server:25.7.6.21
+clickhouse/clickhouse-server:25.8.1.5101
 
 #sonatype/nexus3:3.83.1-java17-ubi
 
@@ -83,10 +103,10 @@
 #mysql:9.1.0-oraclelinux9
 #mysql:lts-oraclelinux9
 
-mysql:8.0.43-oraclelinux9
+#mysql:8.0.43-oraclelinux9
 # map to: lts-oraclelinux9
-mysql:8.4.6-oraclelinux9
-mysql:9.4.0-oraclelinux9
+#mysql:8.4.6-oraclelinux9
+#mysql:9.4.0-oraclelinux9
 
 
 #redis:6.2.16-bookworm
