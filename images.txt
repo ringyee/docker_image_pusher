@@ -3,29 +3,57 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nacos/nacos-server:v3.0.3
-nacos/nacos-server:v2.5.1
-nacos/nacos-server:v2.4.3
+memcached:1.6.39-trixie
+memcached:1.6.39-alpine3.22
 
-minio/minio:RELEASE.2025-07-23T15-54-02Z
+nginx:1.28.0-alpine3.21-perl
+nginx:1.29.1-alpine3.22-perl
+
+busybox:1.36.1-glibc
+busybox:1.37.0-glibc
+
+haproxy:3.2.4-alpine3.22
+haproxy:3.2.4-trixie
+
+influxdb:3.4.1-enterprise
+influxdb:3.4.1-core
+
+jenkins/jenkins:2.516.2-lts-jdk21
+jenkins/jenkins:2.516.2-lts-jdk17
+
+alpine:3.22.1
+alpine:3.21.4
+
+redis:8.2.1-bookworm
+redis:8.2.1-alpine3.22
+redis:8.0.3-bookworm
+redis:7.4.5-bookworm
+
+registry:3.0.0
+
+#nacos/nacos-server:v3.0.3
+#nacos/nacos-server:v2.5.1
+#nacos/nacos-server:v2.4.3
+
+#minio/minio:RELEASE.2025-07-23T15-54-02Z
 
 # map to lts 
-mariadb:11.8.3-noble
-mariadb:11.4.8-noble
+#mariadb:11.8.3-noble
+#mariadb:11.4.8-noble
 
 #phpldapadmin/phpldapadmin:2.1.4
 
 #gitlab/gitlab-ee:17.11.6-ee.0
-gitlab/gitlab-ee:17.11.7-ee.0
+#gitlab/gitlab-ee:17.11.7-ee.0
 
-apache/rocketmq:5.3.2
-rabbitmq:4.1.4-management
+#apache/rocketmq:5.3.2
+#rabbitmq:4.1.4-management
 
-mongo:7.0.23-jammy
-mongo:8.0.13-noble
+#mongo:7.0.23-jammy
+#mongo:8.0.13-noble
 
-clickhouse/clickhouse-server:25.7.6.21
-clickhouse/clickhouse-server:25.8.1.5101
+#clickhouse/clickhouse-server:25.7.6.21
+#clickhouse/clickhouse-server:25.8.1.5101
 
 #sonatype/nexus3:3.83.1-java17-ubi
 
