@@ -3,10 +3,17 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-sonarqube:2025.4.3-enterprise
-sonarqube:2025.5.0-enterprise
-sonarqube:2025.4.3-developer
-sonarqube:2025.5.0-developer
+postgres:17.6-bookworm
+postgres:17.6-alpine3.22
+postgres:16.10-bookworm
+postgres:16.10-alpine3.22
+postgres:15.14-alpine3.22
+postgres:15.14-bookworm
+
+#sonarqube:2025.4.3-enterprise
+#sonarqube:2025.5.0-enterprise
+#sonarqube:2025.4.3-developer
+#sonarqube:2025.5.0-developer
 
 #memcached:1.6.39-trixie
 #memcached:1.6.39-alpine3.22
@@ -112,9 +119,6 @@ sonarqube:2025.5.0-developer
 #zabbix/zabbix-snmptraps:7.2.9-alpine
 
 #rustdesk/rustdesk-server:1.1.14
-
-#postgres:17.5-bookworm
-#postgres:17.5-alpine3.22
 
 #phpmyadmin:5.2.2-apache
 #adminer:5.3.0-standalone
