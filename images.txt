@@ -3,8 +3,16 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-apache/doris:fe-3.1.4
-apache/doris:be-3.1.4
+#apache/doris:fe-3.1.4
+#apache/doris:be-3.1.4
+
+swr.cn-east-2.myhuaweicloud.com/ks/kubesphere/ks-apiserver:v4.1.3
+swr.cn-east-2.myhuaweicloud.com/ks/kubesphere/ks-console:v4.1.3
+swr.cn-east-2.myhuaweicloud.com/ks/kubesphere/ks-controller-manager:v4.1.3
+swr.cn-east-2.myhuaweicloud.com/ks/kubesphere/kubectl:v1.27.16
+swr.cn-east-2.myhuaweicloud.com/ks/kubesphere/redis:7.2.4-alpine
+swr.cn-east-2.myhuaweicloud.com/ks/kubesphere/haproxy:2.9.6-alpine
+swr.cn-east-2.myhuaweicloud.com/ks/kubesphere/ks-extensions-museum:v1.1.5
 
 #flannel/flannel-cni-plugin:v1.9.0-flannel1
 
